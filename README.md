@@ -3,8 +3,7 @@
 Power BI Connector for CrateDB<br />
 Donate link: <a href="https://www.paypal.com/donate?hosted_button_id=7EL8K7ELFWHSY">Buy Me a Coffee?</a>
 
-What is CrateDB?
-=====
+## What is CrateDB?
 
 CrateDB is a distributed SQL database that makes it simple to store and analyze
 massive amounts of data in real-time.
@@ -16,7 +15,32 @@ sweat. You can run ad-hoc queries using standard SQL. CrateDB's blazing-fast
 distributed query execution engine parallelizes query workloads across the
 whole cluster.
 
-What is Power BI native connector for CrateDB?
-=====
+## What is Power BI native connector for CrateDB?
 
 The new native Power BI connector for CrateDB connects Power BI Desktop to a cluster of a CrateDB instance.
+
+### Install the connector
+There are two ways to install the connector:
+
+- Using the Self-Signed version - not available right now.
+- Using the non-signed version, for which you'll have to reduce the security requirements of PowerBi.
+
+### Install the unsigned version
+- You have to enable the "Uncertified connectors" in the Security Options of Power BI:
+- Then download the last version of the unsigned connector (*.mez)
+- And install this file into your `%USERHOME%\Documents\Power BI Desktop\Custom Connectors` folder.
+- Restart Power Bi and the connector should show up in the list.
+
+### How to use it?
+
+* **Step 1**
+
+  > Launch the CrateDB connector. You will find it in the Get Data, Other.
+
+* **Step 2**
+
+  > If you have not yet set up a CrateDB connection, you'll have to start one now. You have to login with your credentials
+  
+* **Step 3**
+
+  > Select the data you want to retrieve and validate

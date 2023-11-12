@@ -1,4 +1,4 @@
-# Power BI Connector for CrateDB (unofficial)
+# Power BI Connector for CrateDB
 
 Power BI Connector for CrateDB<br />
 Donate link: <a href="https://www.paypal.com/donate?hosted_button_id=7EL8K7ELFWHSY">Buy Me a Coffee?</a>

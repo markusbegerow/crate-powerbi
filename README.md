@@ -41,6 +41,9 @@ There are two ways to install the connector:
 
   > Launch the CrateDB connector. You will find it in the Get Data, Other.
 
+  ![image](https://github.com/markusbegerow/crate-powerbi/assets/44146279/de5c56f0-38ee-41d1-b372-4e1e5c89cf74)
+
+
 * **Step 2**
 
   > If you have not yet set up a CrateDB connection, you'll have to start one now. You have to login with your credentials

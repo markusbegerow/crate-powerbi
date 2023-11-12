@@ -27,6 +27,8 @@ There are two ways to install the connector:
 
 ### Install the unsigned version
 - You have to enable the "Uncertified connectors" in the Security Options of Power BI:
+
+![image](https://github.com/markusbegerow/crate-powerbi/assets/44146279/a8bc5d82-40c1-4f52-a06a-603da3df81e8)
 - Then download the last version of the unsigned connector (*.mez)
 - And install this file into your `%USERHOME%\Documents\Power BI Desktop\Custom Connectors` folder.
 - Restart Power Bi and the connector should show up in the list.

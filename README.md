@@ -57,6 +57,6 @@ There are two ways to install the connector:
 
   > Select the data you want to retrieve and validate
 
-  ![image](https://github.com/markusbegerow/crate-powerbi/assets/44146279/8ddc1579-4076-4a86-bdb3-65217a999a82)
+  ![image](https://github.com/markusbegerow/crate-powerbi/assets/44146279/7459fb0c-4b14-42bb-a6b4-02f4251232a9)
 
   ![image](https://github.com/markusbegerow/crate-powerbi/assets/44146279/3b10ec36-addb-4367-a415-cbf1fcdcc2af)

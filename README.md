@@ -23,7 +23,9 @@ The new native Power BI connector for CrateDB connects Power BI Desktop to a clu
 There are two ways to install the connector:
 
 - Using the Self-Signed version - not available right now.
-- Using the non-signed version, for which you'll have to reduce the security requirements of PowerBi.
+- Using the non-signed version, for which you'll have to reduce the security requirements of PowerBi. [There](#Install-the-unsigned-version)
+
+### Install the self signed version - not available right now.
 
 ### Install the unsigned version
 - You have to enable the "Uncertified connectors" in the Security Options of Power BI:

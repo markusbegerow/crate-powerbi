@@ -43,10 +43,14 @@ There are two ways to install the connector:
 
   ![image](https://github.com/markusbegerow/crate-powerbi/assets/44146279/de5c56f0-38ee-41d1-b372-4e1e5c89cf74)
 
+  ![image](https://github.com/markusbegerow/crate-powerbi/assets/44146279/9bfce25c-3e19-42b4-9777-be9789570880)
 
 * **Step 2**
 
   > If you have not yet set up a CrateDB connection, you'll have to start one now. You have to login with your credentials
+
+  ![image](https://github.com/markusbegerow/crate-powerbi/assets/44146279/83cd9937-4e2c-4006-8d52-4e211ab1f1f1)
+
   
 * **Step 3**
 
